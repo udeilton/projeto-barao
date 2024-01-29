@@ -1,0 +1,17 @@
+ body {
+    background-image: linear-gradient(
+        rgb(241, 25, 144) 60%,
+        rgb(9, 4, 4)
+    );
+}
+
+#topo {
+    background-color: rgb(205, 197, 197);
+}
+
+
+#botao {
+    background-color: rgb(38, 205, 235);
+}
+
+
